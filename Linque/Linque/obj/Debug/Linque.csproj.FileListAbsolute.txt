@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\Linque\Linque\bin\Debug\Linque.exe.config
+C:\Users\student\documents\visual studio 2015\Projects\Linque\Linque\bin\Debug\Linque.exe
+C:\Users\student\documents\visual studio 2015\Projects\Linque\Linque\bin\Debug\Linque.pdb
+C:\Users\student\documents\visual studio 2015\Projects\Linque\Linque\obj\Debug\Linque.csprojResolveAssemblyReference.cache
+C:\Users\student\documents\visual studio 2015\Projects\Linque\Linque\obj\Debug\Linque.exe
+C:\Users\student\documents\visual studio 2015\Projects\Linque\Linque\obj\Debug\Linque.pdb
